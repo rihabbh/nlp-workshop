@@ -1,2 +1,3 @@
 # Introduction au Traitement du Langage Naturel (NLP)
 
+ Les avis des utilisateurs sont l'une des méthodes les plus efficaces pour acheter ou non un produit. Ces avis peuvent à la fois donner une idée aux clients et être un retour d'information pour les fabricants, car les avis montrent les côtés positifs et les côtés à améliorer. Dans ce projet, l'analyse des sentiments sera mise en œuvre dans un produit sur Amazon, et chaque étape du NLP et de l'analyse des sentiments sera expliquée. En résumé, il s'agit d'un cahier didactique qui comprend la mise en œuvre du NLP et de l'analyse des sentiments avec un ensemble de données comprenant des avis Amazon.
