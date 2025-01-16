@@ -1,2 +1,2 @@
-# nlp-workshop
-Introduction au Traitement du Langage Naturel (NLP)
+# Introduction au Traitement du Langage Naturel (NLP)
+
